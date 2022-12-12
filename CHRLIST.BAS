@@ -1,0 +1,6 @@
+10 CLS
+20 FOR C% = 0 TO 255
+30 PRINT C%"=" ; CHR$(C%); " " ;
+40 NEXT C%
+50 END
+

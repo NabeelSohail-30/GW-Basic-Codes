@@ -1,0 +1,3 @@
+10 CLS
+20 PRINT CHR$(65) , CHR$(66)
+

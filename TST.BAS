@@ -1,0 +1,5 @@
+10 CLS
+20 FOR A = 1 TO 10
+30 PRINT A
+40 NEXT A
+
